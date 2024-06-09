@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images only</folder>
+	<filename>N3.jpeg</filename>
+	<path>E:\Project Year 4 All List\Automatic License Plate Detection\images only\N3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>932</width>
+		<height>699</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>380</ymin>
+			<xmax>266</xmax>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+</annotation>
